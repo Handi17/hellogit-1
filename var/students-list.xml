@@ -8,18 +8,6 @@
         <github>studuek</github>
         <group>jkanclerz</group>
     </student>
-    <student>
-        <firstname>Jakub</firstname>
-        <lastname>Kanclerz</lastname>
-
-<students>
-    <student>
-        <firstname>Student1</firstname>
-        <lastname>Student1</lastname>
-        <email>student@uek.krakow.pl</email>
-        <github>studuek</github>
-        <group>jkanclerz</group>
-    </student>
         <email>jakub.kanclerz@gmail.com</email>
         <github>jkanclerz</github>
         <group>jkanclerz</group>
@@ -52,5 +40,11 @@
         <github>maggie930727</github>
         <group>KrDzIS3011Si</group>
     </student>
-
+  <student>
+	<firstname>Sebastian</firstname>
+        <lastname>Handziak<lastname>
+        <email>handi17@interia.pl</email>
+        <github>handi17</github>
+        <group>KrZZiS3011Si</group>
+  </student>
 </students>
